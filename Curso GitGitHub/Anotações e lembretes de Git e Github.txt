@@ -4,5 +4,17 @@ Blobs, trees e commits, além de Chave, SSH e Tokens.
 
 
 
+Comandos importantes:
+
+git status (atualizar o estado)
+
+git add . (adicionar as alteracoes no local )
+
+git commit -m "escrever comentario sobre o arquivos que iremos subir para o git hub"
+
+git push origin main (adicionar ao git hub)
+
+
+
 
 
