@@ -1,2 +1,6 @@
 Excelente site para aprender linguagens de programação e linguagens de manutenção, com vários exercícios.
 https://www.w3schools.com/php/php_comments.asp
+
+Links de aulas adicionais do youtube que complementaram o aprendizado de CSS3:
+https://www.youtube.com/watch?v=ZykAyFH9vYo
+https://www.youtube.com/watch?v=ZMCemNmB_v0
